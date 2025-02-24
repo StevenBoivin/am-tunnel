@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/StevenBoivin/am-tunnel/refs/heads/dev/ipv4beiyong.txt
+https://raw.githubusercontent.com/StevenBoivin/am-tunnel/refs/heads/dev/ipv4beiyong.txt@47.88.15.127
